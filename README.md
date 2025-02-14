@@ -64,7 +64,7 @@ In this section, I will showcase data analytics projects, briefly outlining the 
 
 ### **Mall Customers Clustering**
 
-**Code:** [Mall Customers Clustering.ipynb](https://github.com/ayadewantis/Data-Analysis-Portfolio/Notebooks/Mall%20Customers%20Clustering.ipynb)
+**Code:** [Mall Customers Clustering.ipynb](https://github.com/ayadewantis/Data-Analysis-Portfolio/blob/main/Mall%20Customers%20Clustering.ipynb)
 
 **Goal:** Identify trends and patterns in sales performance across different segment, categories, and time periods and understand customer purchasing patterns to drive personalized marketing strategies
 
