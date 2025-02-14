@@ -50,7 +50,7 @@ In this section, I will showcase data analytics projects, briefly outlining the 
 
 ### **Sales Performance and Customer Segmentation Analysis**
 
-**Code:** [Superstore Sales and Customer Segmentation Analysis.ipynb](https://github.com/ayadewantis/Data-Analysis-Portfolio/blob/main/Notebooks/Superstore%20Sales%20and%20Customer%20Segmentation%20Analysis.ipynb)
+**Code:** [Superstore Sales and Customer Segmentation Analysis.ipynb](https://github.com/ayadewantis/Data-Analysis-Portfolio/blob/main/Superstore%20Sales%20and%20Customer%20Segmentation%20Analysis.ipynb)
 
 **Goal:** Identify trends and patterns in sales performance across different segment, categories, and time periods and understand customer purchasing patterns to drive personalized marketing strategies
 
