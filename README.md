@@ -28,13 +28,17 @@ Tools: Excel, Jupyter Notebook
 
 ## 🌱 Currently Learning
 
-Advanced SQL: Deepening my expertise in SQL for complex queries and optimizing database performance
+Advanced SQL: Enhancing query optimization, database management, and data transformation skills
 
-Machine Learning: Exploring foundational machine learning techniques for real-world business applications
+Python for Data Analysis: Strengthening proficiency in Pandas, NumPy, and data manipulation techniques
 
-Data Engineering: Gaining knowledge in building data pipelines and enhancing data infrastructure
+Data Visualization: Creating compelling dashboards and reports using Tableau, Power BI, and Matplotlib
 
-Business Strategy through Data: Developing a strategic mindset to apply data-driven insights in business decision-making
+Business Intelligence: Exploring BI tools, reporting automation, and data-driven decision-making strategies
+
+Machine Learning: Understanding predictive modeling and its applications in business analytics
+
+Data Engineering: Learning about ETL processes, data pipelines, and efficient data storage solutions
 
 ## 📫 Let's Connect
 
@@ -52,26 +56,66 @@ In this section, I will showcase data analytics projects, briefly outlining the 
 
 **Code:** [Superstore Sales and Customer Segmentation Analysis.ipynb](https://github.com/ayadewantis/Data-Analysis-Portfolio/blob/main/Superstore%20Sales%20and%20Customer%20Segmentation%20Analysis.ipynb)
 
-**Goal:** Identify trends and patterns in sales performance across different segment, categories, and time periods and understand customer purchasing patterns to drive personalized marketing strategies
+**Goal:** The objective of this project is to analyze sales performance trends across different segments, categories, and time periods while also identifying customer purchasing patterns. By leveraging data analytics in Python, this project aims to provide valuable insights that support data-driven decision-making, including identifying top-selling products and categories, recognizing seasonal trends and demand forecasting,analyzing revenue breakdown by customer segments, optimizing personalized marketing strategies
 
-**Description:** The project focused on analyzing a dataset of The Superstore dataset. The project involved preparing the data, cleaning it, performing exploratory data analysis (EDA), analyzing the relationship between total sales and monthly sales, analyzing the correlation between total sales and total profit for each order, and implemented chi-square coefficient statistical analysis to understand whether the relationship between customer segments and product categories.
+**Description:** This analysis is focused on sales data from a superstore, utilizing business intelligence techniques to extract meaningful insights. By exploring customer behaviors, sales trends, and revenue distributions, the project seeks to enhance operational efficiency and strategic planning.
 
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Skills:** 
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+📌 Business Intelligence & Data Analytics
 
-**Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
+📌 Exploratory Data Analysis (EDA)
+
+📌 Data Cleaning & Preprocessing
+
+📌 Data Visualization
+
+📌 Python Programming
+
+**Technology:**
+
+✅ pandas → Data manipulation
+
+✅ numpy → Numerical computations
+
+✅ matplotlib, seaborn → Data visualization
+
+✅ scikit-learn → Customer segmentation & clustering
+
+✅ datetime → Time-series analysis
+
+**Results:** The analysis provides key insights into sales trends, customer behavior, and revenue distribution. Some of the major findings include identification of best-selling products and categories, seasonal demand trends that can improve inventory management, revenue distribution across customer segments to enhance marketing strategies, application of customer segmentation for better targeting and personalized promotions
 
 ### **Mall Customers Clustering**
 
-**Code:** [Mall Customers Clustering.ipynb](https://github.com/ayadewantis/Data-Analysis-Portfolio/blob/main/Mall%20Customers%20Clustering.ipynb)
+**Code:** [Mall Customers Segmentation.ipynb](https://github.com/ayadewantis/Data-Analysis-Portfolio/blob/main/Mall%20Customers%20Clustering.ipynb)
 
-**Goal:** Identify trends and patterns in sales performance across different segment, categories, and time periods and understand customer purchasing patterns to drive personalized marketing strategies
+**Goal:** This project aims to perform customer segmentation for a shopping mall using K-Means clustering. The objective is to group customers based on their spending patterns and demographic characteristics, providing insights into consumer behavior.
 
-**Description:** The project focused on analyzing a dataset of The Superstore dataset. The project involved preparing the data, cleaning it, performing exploratory data analysis (EDA), analyzing the relationship between total sales and monthly sales, analyzing the correlation between total sales and total profit for each order, and implemented chi-square coefficient statistical analysis to understand whether the relationship between customer segments and product categories.
+**Description:** The notebook leverages customer data to conduct unsupervised clustering analysis. By applying K-Means, it identifies distinct customer segments that share similar attributes. This segmentation can help businesses enhance marketing strategies, personalize services, and optimize customer engagement.
 
-**Skills:** data cleaning, data analysis, correlation matrices, hypothesis testing, data visualization.
+**Skills:** 
 
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, SciPy.
+📌 Machine Learning (K-Means Clustering)
 
-**Results:** Using Python functions the analysis revealed that votes and budget have the highest correlation with gross earnings, while the company has no significant correlation.
+📌 Data Preprocessing & Cleaning
+
+📌 Data Visualization (Matplotlib, Seaborn)
+
+📌 Python Programming (Pandas, NumPy)
+
+**Technology:** 
+
+This project utilizes the following libraries:
+
+✅ pandas → Data manipulation
+
+✅ numpy → Numerical computations
+
+✅ matplotlib, seaborn → Data visualization
+
+✅ scikit-learn (KMeans) → Clustering algorithm
+
+✅ Yellowbrick (KElbowVisualizer) → Optimal cluster selection
+
+**Results:** The analysis successfully segments customers into distinct groups based on their income levels and spending behavior. Using the elbow method (KElbowVisualizer), the optimal number of clusters is determined before applying K-Means clustering. These insights can support targeted marketing efforts, improve customer retention strategies, and enhance decision-making for business growth.
