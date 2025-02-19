@@ -8,6 +8,8 @@ I am a passionate data enthusiast with a strong focus on Business Intelligence, 
 
 🚀 Currently exploring opportunities in Business Intelligence, Data Analysis, and Business Strategy roles to leverage data in driving business success.
 
+### My GitHub showcases my data analytics projects and technical skills. For a complete overview of my experience and qualifications, please see my CV: 
+
 ## 🔍 Areas of Interest
 
 Data Analysis 📊: Extracting valuable insights from complex datasets to guide business decisions.
@@ -50,7 +52,7 @@ This repository showcases my skills, projects, and progress in the realms of Dat
 
 # Portfolio Project
 
-In this section, I will showcase data analytics projects, briefly outlining the technology stack used to solve each case.
+The projects in this portfolio are case studies where I apply data analytics techniques to extract insights, solve business problems, and develop data-driven recommendations.
 
 ### **Sales Performance and Customer Segmentation Analysis**
 
