@@ -122,7 +122,7 @@ Data Visualization to understand and interpret cluster characteristics
 
 ### **Optimizing Business Growth Through Customer and Revenue Analytics**
 
-**Code:** [Optimizing Business Growth Through Customer and Revenue Analytics.sql](https://github.com/ayadewantis/Data-Analysis-Portfolio/blob/main/Mall%20Customers%20Clustering.ipynb)
+**Code:** [Optimizing Business Growth Through Customer and Revenue Analytics.sql](https://github.com/ayadewantis/Data-Analysis-Portfolio/blob/main/Optimizing%20Business%20Growth%20Through%20Customer%20and%20Revenue%20Analytics.sql)
 
 **Description:** This project analyzes customer purchasing behavior and revenue trends using SQL to optimize business strategies. It evaluates the impact of discounts on profitability and identifies high-performing regions for market expansion, providing data-driven insights for better decision-making.
 
