@@ -56,66 +56,102 @@ In this section, I will showcase data analytics projects, briefly outlining the 
 
 **Code:** [Superstore Sales and Customer Segmentation Analysis.ipynb](https://github.com/ayadewantis/Data-Analysis-Portfolio/blob/main/Superstore%20Sales%20and%20Customer%20Segmentation%20Analysis.ipynb)
 
-**Goal:** The objective of this project is to analyze sales performance trends across different segments, categories, and time periods while also identifying customer purchasing patterns. By leveraging data analytics in Python, this project aims to provide valuable insights that support data-driven decision-making, including identifying top-selling products and categories, recognizing seasonal trends and demand forecasting,analyzing revenue breakdown by customer segments, optimizing personalized marketing strategies
-
 **Description:** This analysis is focused on sales data from a superstore, utilizing business intelligence techniques to extract meaningful insights. By exploring customer behaviors, sales trends, and revenue distributions, the project seeks to enhance operational efficiency and strategic planning.
 
-**Skills:** 
+**Objective:** The objective of this project is to analyze sales performance trends across different segments, categories, and time periods while also identifying customer purchasing patterns. By leveraging data analytics in Python, this project aims to provide valuable insights that support data-driven decision-making, including identifying top-selling products and categories, recognizing seasonal trends and demand forecasting,analyzing revenue breakdown by customer segments, and optimizing personalized marketing strategies.
 
-📌 Business Intelligence & Data Analytics
+**Data Collection:** Sales data from the Superstore dataset.
 
-📌 Exploratory Data Analysis (EDA)
+**Tools & Techniques:**
 
-📌 Data Cleaning & Preprocessing
+Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
 
-📌 Data Visualization
+Exploratory Data Analysis (EDA) to uncover sales patterns
 
-📌 Python Programming
+Linear Regression to predict sales trends
 
-**Technology:**
+Chi-square test to assess relationships between variables
 
-✅ pandas → Data manipulation
+**Key Findings:** 
 
-✅ numpy → Numerical computations
+📌 Seasonal Impact on Sales – Certain products and categories show a significant increase in demand during specific periods.
 
-✅ matplotlib, seaborn → Data visualization
+📌 Customer Segmentation Insights – Different customer groups contribute varying levels of revenue, influencing personalized marketing strategies.
 
-✅ scikit-learn → Customer segmentation & clustering
+📌 Top-Selling Products Analysis – Identified high-performing items to optimize inventory and promotions.
 
-✅ datetime → Time-series analysis
+**Conclusion & Business Impact:**
 
-**Results:** The analysis provides key insights into sales trends, customer behavior, and revenue distribution. Some of the major findings include identification of best-selling products and categories, seasonal demand trends that can improve inventory management, revenue distribution across customer segments to enhance marketing strategies, application of customer segmentation for better targeting and personalized promotions
+📈 Enhanced Decision-Making: Businesses can optimize stock management, adjust pricing strategies, and focus on high-demand products.
 
-### **Mall Customers Clustering**
+🎯 Targeted Marketing Strategies: Understanding customer segments enables personalized promotions, increasing customer engagement and sales.
+
+
+### **Mall Customers Segmentation**
 
 **Code:** [Mall Customers Segmentation.ipynb](https://github.com/ayadewantis/Data-Analysis-Portfolio/blob/main/Mall%20Customers%20Clustering.ipynb)
 
-**Goal:** This project aims to perform customer segmentation for a shopping mall using K-Means clustering. The objective is to group customers based on their spending patterns and demographic characteristics, providing insights into consumer behavior.
-
 **Description:** The notebook leverages customer data to conduct unsupervised clustering analysis. By applying K-Means, it identifies distinct customer segments that share similar attributes. This segmentation can help businesses enhance marketing strategies, personalize services, and optimize customer engagement.
 
-**Skills:** 
+**Objective:** This project applies K-Means Clustering to segment mall customers based on their purchasing behavior. The insights help businesses to identify customer groups with distinct spending habits, improve marketing campaigns with personalized promotions, enhance customer experience through tailored services, optimize store layout & product placement for better sales.
 
-📌 Machine Learning (K-Means Clustering)
+**Data Collection:** Mall customer dataset with features Annual Income, Spending Score, and Age.
 
-📌 Data Preprocessing & Cleaning
+**Tools & Techniques:**
 
-📌 Data Visualization (Matplotlib, Seaborn)
+Python (Scikit-learn, Matplotlib, NumPy)
 
-📌 Python Programming (Pandas, NumPy)
+K-Means Clustering to group customers based on spending patterns
 
-**Technology:** 
+Data Visualization to understand and interpret cluster characteristics
 
-This project utilizes the following libraries:
+**Key Findings:** 
 
-✅ pandas → Data manipulation
+📌 Distinct Customer Segments – The clustering revealed groups with varying income and spending behaviors, enabling more effective targeting.
 
-✅ numpy → Numerical computations
+📌 High-Spending vs. Low-Spending Groups – Certain customer clusters showed significantly higher spending tendencies, making them ideal for premium offers.
 
-✅ matplotlib, seaborn → Data visualization
+📌 Marketing Personalization Opportunities – Each segment exhibits different behaviors, allowing businesses to tailor promotions and discounts.
 
-✅ scikit-learn (KMeans) → Clustering algorithm
+**Conclusion & Business Impact:**
 
-✅ Yellowbrick (KElbowVisualizer) → Optimal cluster selection
+🎯 Data-Driven Customer Targeting: Businesses can optimize marketing budgets by focusing on the most valuable customer segments.
 
-**Results:** The analysis successfully segments customers into distinct groups based on their income levels and spending behavior. Using the elbow method (KElbowVisualizer), the optimal number of clusters is determined before applying K-Means clustering. These insights can support targeted marketing efforts, improve customer retention strategies, and enhance decision-making for business growth.
+📈 Improved Customer Engagement: Personalized recommendations and promotions lead to better customer satisfaction and higher retention rates.
+
+
+### **Optimizing Business Growth Through Customer and Revenue Analytics**
+
+**Code:** [Optimizing Business Growth Through Customer and Revenue Analytics.sql](https://github.com/ayadewantis/Data-Analysis-Portfolio/blob/main/Mall%20Customers%20Clustering.ipynb)
+
+**Description:** This project analyzes customer purchasing behavior and revenue trends using SQL to optimize business strategies. It evaluates the impact of discounts on profitability and identifies high-performing regions for market expansion, providing data-driven insights for better decision-making.
+
+**Objective:** This project aims to analyze customer purchasing behavior and revenue trends to optimize business growth strategies. The key focus areas include assessing the impact of discounts on sales and profitability, identifying the most profitable regions to support market expansion., and optimizing promotional strategies based on data-driven insights.
+
+**Data Collection:** Extracted from the Orders dataset, containing information on sales, discounts, order transactions, and regional performance.
+
+**Tools & Techniques:**
+
+SQL Queries for data extraction and transformation.
+
+Aggregations & Grouping: Summarizing sales, profit, and order trends.
+
+Profitability Metrics: Calculating average profit margin to assess discount effectiveness.
+
+Regional Analysis: Identifying high-revenue areas for strategic business expansion.
+
+**Key Findings:** 
+
+📌 Discounts vs. Profitability – Discounts increase order volume but may reduce profit margins, depending on the discount level.
+
+📌 Regional Profitability Insights – Certain regions generate higher sales and profit, making them ideal for business expansion.
+
+📌 Optimal Discount Strategy – Discounts are effective for specific product categories, but excessive discounts can harm profitability.
+
+**Conclusion & Business Impact:**
+
+📈 Strategic Discounting: Businesses should implement targeted discount strategies that maximize sales without significantly reducing profit margins.
+
+🌍 Market Expansion Opportunities: Investing in high-performing regions can increase revenue and optimize marketing efforts.
+
+🎯 Data-Driven Decision Making: Leveraging SQL-based analytics helps businesses enhance revenue, optimize promotions, and drive long-term growth.
