@@ -8,8 +8,6 @@ I am a passionate data enthusiast with a strong focus on Business Intelligence, 
 
 🚀 Currently exploring opportunities in Business Intelligence, Data Analysis, and Business Strategy roles to leverage data in driving business success.
 
-### My GitHub showcases my data analytics projects and technical skills. For a complete overview of my experience and qualifications, please see my CV: 
-
 ## 🔍 Areas of Interest
 
 Data Analysis 📊: Extracting valuable insights from complex datasets to guide business decisions.
@@ -157,3 +155,6 @@ Regional Analysis: Identifying high-revenue areas for strategic business expansi
 🌍 Market Expansion Opportunities: Investing in high-performing regions can increase revenue and optimize marketing efforts.
 
 🎯 Data-Driven Decision Making: Leveraging SQL-based analytics helps businesses enhance revenue, optimize promotions, and drive long-term growth.
+
+
+#### For a complete overview of my experience and qualifications, please see my CV: [CV Aya Dewanti Sofia.pdf](https://github.com/ayadewantis/Data-Analysis-Portfolio/blob/main/CV%20Aya%20Dewanti%20Sofia.pdf)
