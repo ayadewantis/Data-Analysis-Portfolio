@@ -157,4 +157,4 @@ Regional Analysis: Identifying high-revenue areas for strategic business expansi
 🎯 Data-Driven Decision Making: Leveraging SQL-based analytics helps businesses enhance revenue, optimize promotions, and drive long-term growth.
 
 
-#### For a complete overview of my experience and qualifications, please see my CV: [CV Aya Dewanti Sofia.pdf](https://github.com/ayadewantis/Data-Analysis-Portfolio/blob/main/CV%20Aya%20Dewanti%20Sofia.pdf)
+### For a complete overview of my experience and qualifications, please see my CV: [CV Aya Dewanti Sofia.pdf](https://github.com/ayadewantis/Data-Analysis-Portfolio/blob/main/CV%20Aya%20Dewanti%20Sofia.pdf)
